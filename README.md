@@ -41,7 +41,6 @@
 ## 🤝 Let’s Connect!
 📫 annabelle.gyeniba.moore@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/annabelle-moore-0b6342259/)  
-🎨 Always open to chatting about art, tech, games, or creative collaboration!
 
 ---
 
