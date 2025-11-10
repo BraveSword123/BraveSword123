@@ -25,10 +25,10 @@
 ---
 
 ## 📁 Featured Projects
-- 🎮 **Annabelle_Moore.exe**  
+- 🎮 **Annabelle Moore XP**  
   A nostalgic personal homepage including my web development projects
 
-- 🎧 **My Favorite Music Website (WIP)**  
+- 🎧 **My Favorite Music Player**  
   A custom music player site featuring a playlists of my favorite music
 
 - 🧩 **Guess the Number Game**  
