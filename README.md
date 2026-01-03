@@ -2,16 +2,16 @@
 <h3 align="center">Student at CSUN and Aspiring Web Developer</h3>
 
 ## 💻 What I’m Working On
-- 🎵 A personal music website that plays my favorite tracks with a custom aesthetic
-- 🖼️ Improving my digital art & animation skills to incorporate into my games and websites
+- 🎵 Applying for SWE and Web Development Roles 
+- 🖼️ Created SWE Projects to Expand My Knowledge of Web Development and UI/UX Design
 - 🧠 Learning React and Typescript
-- 🎯Inproving my JavaScript Skiils
+- 🎯Getting My Computer Science Degree at CSUN
 
 ---
 
 ## 💡 Tech Stack & Skills
 - **Languages:** HTML, CSS, JavaScript, C++, Java
-- **Tools & Concepts:** Git/GitHub, Object-Oriented Programming 
+- **Tools & Concepts:** Git/GitHub, Object-Oriented Programming, Figma, Visual Studio Code, Visual Studio 2022, Data Structures 
 - **Soft Skills:** Leadership, teaching, collaboration, creative problem-solving
 
 ---
@@ -34,7 +34,7 @@
 - 🧩 **Guess the Number Game**  
   A simple number guessing game using HTML, CSS, and Javascript
 
-→ [Check out all my projects](https://github.com/BraveSword123)
+→ [Check out all my projects](https://github.com/BraveSword123?tab=repositories)
 
 ---
 
