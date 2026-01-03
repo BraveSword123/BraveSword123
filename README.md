@@ -4,7 +4,7 @@
 ## 💻 What I’m Working On
 - 🎵 A personal music website that plays my favorite tracks with a custom aesthetic
 - 🖼️ Improving my digital art & animation skills to incorporate into my games and websites
-- 🧠 Learning backend basics and React
+- 🧠 Learning React and Typescript
 - Inproving my JavaScript Skiils
 
 ---
