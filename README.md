@@ -1,44 +1,44 @@
-<h1 align="center">Hi 👋, I'm Annabelle Moore</h1>
+<h1 align="center">Hi, I'm Annabelle Moore</h1>
 <h3 align="center">Student at CSUN and Aspiring Web Developer</h3>
 
-## 💻 What I’m Working On
-- 🎵 Applying for SWE and Web Development Roles 
-- 🖼️ Created SWE Projects to Expand My Knowledge of Web Development and UI/UX Design
-- 🧠 Learning React and Typescript
-- 🎯Getting My Computer Science Degree at CSUN
+## What I’m Working On
+- Creating Discrete Event Simulations for My Job as a Research Assistant @ CSUN
+- Created SWE Projects to Expand My Knowledge of Web Development and UI/UX Design
+- Learning More About PHP and SQL
+- Getting My Computer Science Degree at CSUN
 
 ---
 
-## 💡 Tech Stack & Skills
-- **Languages:** HTML, CSS, JavaScript, C++, Java
+## Tech Stack & Skills
+- **Languages:** React, Typescript, SQL, PHP, HTML, CSS, JavaScript, C++, Java
 - **Tools & Concepts:** Git/GitHub, Object-Oriented Programming, Figma, Visual Studio Code, Visual Studio 2022, Data Structures 
 - **Soft Skills:** Leadership, teaching, collaboration, creative problem-solving
 
 ---
 
-## 🌱 Goals
+## Goals
 - Expand beyond solo projects by **collaborating** with other developers and artists
-- Learn more about **software development**, including app dev and backend
+- Learn more about **software development**, including app development and backend
 - Build a strong portfolio that reflects my creativity and technical skills
 - Prepare for **tech interviews** and explore internships and job opportunities
 
 ---
 
-## 📁 Featured Projects
-- 🎮 **Annabelle Moore XP**  
-  A nostalgic personal homepage including my web development projects
+## Featured Projects
+- **My Digital Scrapbook**  
+  A prototype for a React + TS social media site that encourages people to travel. 
 
-- 🎧 **My Favorite Music Player**  
+- **Incremental**  
+  A website that uses PHP and SQL to keep track of what number an account holds. 
+
+- **My Favorite Music Player**  
   A custom music player site featuring a playlists of my favorite music
-
-- 🧩 **Guess the Number Game**  
-  A simple number guessing game using HTML, CSS, and Javascript
 
 → [Check out all my projects](https://github.com/BraveSword123?tab=repositories)
 
 ---
 
-## 🤝 Let’s Connect!
+## Let’s Connect!
 📫 annabelle.gyeniba.moore@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/annabelle-moore-0b6342259/)  
 
