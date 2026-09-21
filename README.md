@@ -38,9 +38,12 @@
 
 ---
 
-## Let’s Connect!
- annabelle.gyeniba.moore@gmail.com  
- [LinkedIn](https://www.linkedin.com/in/annabelle-moore-0b6342259/)  
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://github.com/BraveSword123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="BraveSword123" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/annabelle-moore-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="annabelle-moore-dev" height="30" width="40" /></a>
+</p>
+
 
 ---
 
